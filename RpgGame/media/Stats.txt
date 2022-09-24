@@ -1,0 +1,35 @@
+swings = 1000
+bullets = 1000
+MinAmmo = 1.0
+MaxAmmo = 5.0
+AmmoChance = 10.0
+MinHp = 100.0
+MaxHp = 200.0
+HpChance = 10.0
+
+Mob1Hp = 15.0
+Mob1exp = 1.0
+Mob1Meele = 10.0
+Mob1MeeleDelay = 1.5
+Mob1Bullet = 0.0
+Mob1BulletDelay = 0.0
+Mob1MinGold = 10.0
+Mob1MaxGold = 20.0
+
+Mob2Hp = 30.0
+Mob2exp = 3.0
+Mob2Meele = 20.0
+Mob2MeeleDelay = 1.0
+Mob2Bullet = 30.0
+Mob2BulletDelay = 1.5
+Mob2MinGold = 15.0
+Mob2MaxGold = 30.0
+
+Mob3Hp = 100.0
+Mob3exp = 10.0
+Mob3Meele = 0.0
+Mob3MeeleDelay = 0.0
+Mob3Bullet = 100.0
+Mob3BulletDelay = 2.5
+Mob3MinGold = 50.0
+Mob3MaxGold = 50.0

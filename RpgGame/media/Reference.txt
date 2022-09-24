@@ -1,0 +1,14 @@
+SLUG-like Monster
+http://www.turbosquid.com/FullPreview/Index.cfm/ID/375786
+Gazer_model
+http://www.turbosquid.com/FullPreview/Index.cfm/ID/327786
+Mech06
+http://www.turbosquid.com/FullPreview/Index.cfm/ID/460614
+Marvin Demo(Sub character)
+http://www.turbosquid.com/FullPreview/Index.cfm/ID/378221
+Bomberman(Main Player)
+http://www.turbosquid.com/FullPreview/Index.cfm/ID/422967
+
+Sound
+Pain(Sound)
+http://soundbible.com/1454-Pain.html
