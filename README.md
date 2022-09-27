@@ -62,3 +62,18 @@ F4 - Free Look - Changes To Camera Mode
 - Locks Mouse to center of window
 - For Wall Collision: Uses a cached "Old Positon" and Axis Clamping to reset Position when Collision
 - All Uses Basic Radius distance for collsion detection
+
+## Refrences
+- Pain(Sound) [^1]
+- SLUG-like Monster [^2]
+- Gazer_model [^3]
+- Mech06 [^4]
+- Marvin Demo(Sub character) [^5]
+- Bomberman(Main Player) [^6]
+
+[^1]: http://soundbible.com/1454-Pain.html
+[^2]: http://www.turbosquid.com/FullPreview/Index.cfm/ID/375786
+[^3]: http://www.turbosquid.com/FullPreview/Index.cfm/ID/327786
+[^4]: http://www.turbosquid.com/FullPreview/Index.cfm/ID/460614
+[^5]: http://www.turbosquid.com/FullPreview/Index.cfm/ID/378221
+[^6]: http://www.turbosquid.com/FullPreview/Index.cfm/ID/422967
