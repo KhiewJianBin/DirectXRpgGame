@@ -41,6 +41,7 @@ F3 - Free Camera View
 WASD - Movement
 Left Mouse - Shoot
 E - Talk to NPC (Shop & Quest Giver)
+Tab - Character Menu
 ```
 
 ### Free Cam Controls
