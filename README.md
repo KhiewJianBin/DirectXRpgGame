@@ -12,7 +12,7 @@
   
 # Features
   1. First person or third person mode
-  2. A Shop to buy ***Health** and *Ammo*
+  2. A Shop to buy **Health** and *Ammo*
   3. FreeCam Mode for screen Shots
   4. Procedural Level that loads from text [file] (https://github.com/KhiewJianBin/DirectXRpgGame/blob/main/RpgGame/media/maze.txt)
   5. Modifiable Game Settings [Stats](https://github.com/KhiewJianBin/DirectXRpgGame/blob/main/RpgGame/media/Stats.txt)
