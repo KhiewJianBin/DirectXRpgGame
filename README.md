@@ -1,7 +1,12 @@
 # DirectXRpgGame
   Course Assignment Project in Singapore Polytechnic.
 
+  "apocalypse_dilivery"
   Simple 3D Shooter RPG Game made using DirectX9 No guided objectives.
+  
+  Created by:
+  Programmer :Khiew Jian Bin
+  Designer   :Song JunQuan
 
   <img src="https://user-images.githubusercontent.com/5699978/192591899-bb05f794-a554-4c93-979c-a337ab9f68ac.png" width="700">
   
