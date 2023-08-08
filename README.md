@@ -18,7 +18,8 @@
   5. Modifiable Game Settings [Stats](https://github.com/KhiewJianBin/DirectXRpgGame/blob/main/RpgGame/media/Stats.txt)
   
 # Install
-  No Installation Required. Just Git clone or direct download
+  Require DirectX End-User Runtime Web Installer
+  No Other Installation Required. Just Git clone or direct download
 
 ## Usage
 1. Run [My3DGame.exe](https://github.com/KhiewJianBin/DirectXBlockSimulation/blob/main/My3DGame.exe)
